@@ -1,4 +1,5 @@
 # Overview
+![logo](https://github.com/jiamliu/dice1v1_2/assets/139939637/6ac9a414-de98-413d-b692-54b6da1302c3)
 🎲DICE 1V1 2.0 is inspired by DICE 1V1 1.0, which includes an improved gameplay and user experience.
 
 # Features
