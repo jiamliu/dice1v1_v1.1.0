@@ -15,10 +15,10 @@ Scoring: The player with the higher total number from three dices wins the round
 Winning the Game: The first player to reach a predetermined number of points, or the player with the most points after a set number of rounds, wins the game.
 
 # Game Layout
-![game layout](https://github.com/jiamliu/dice1v1_2/assets/139939637/e0fb4c25-4070-4aa1-ad87-0a5521ac27d5)
+                                                    ![game layout](https://github.com/jiamliu/dice1v1_2/assets/139939637/e0fb4c25-4070-4aa1-ad87-0a5521ac27d5)
 
 # Gameplay
-![gameplay](https://github.com/jiamliu/dice1v1_2/assets/139939637/b329c6b2-26ca-4e52-a9a7-e445306197a6)
+                                                    ![gameplay](https://github.com/jiamliu/dice1v1_2/assets/139939637/b329c6b2-26ca-4e52-a9a7-e445306197a6)
 
 # Technology to be used
 HTML
