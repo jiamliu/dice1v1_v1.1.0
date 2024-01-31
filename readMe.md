@@ -25,13 +25,20 @@ Winning the Game: The first player to reach a predetermined number of points, or
 
 # Technology to be used
 HTML
+
 CSS
+
 JavaScript
+
 Ucraft
+
 Diagram.net
 
 # Resource
 🤖️DICE 1V1 GitHub: https://github.com/jiamliu/dice1v1
+
 🎲Image source: https://www.pinterest.com/
+
 🧑‍🎨Game layout design: https://app.diagrams.net/
+
 🧑‍🎨Logo Design: https://www.ucraft.com/free-logo-maker#create-logo
